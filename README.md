@@ -1,15 +1,3 @@
-**WARNING: THIS PROJECT IS IN MAINTENANCE MODE, DUE TO INSUFFICIENT MAINTAINER RESOURCES**
-
-It works fine, but will generally no longer be improved.
-
-We are currently only accepting changes which:
-
-* keep this compiling with the latest versions of Rust or its dependencies.
-* have minimal review requirements, such as documentation changes (so not totally new APIs).
-
-------
-
-
-A HashMap wrapper that holds key-value pairs in insertion order.
-
-Documentation is available at https://docs.rs/linked-hash-map.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7b75364e41025c7ca1ed58ed0650860f840aeeaf0264848e817653abcb3bf89
+size 506
